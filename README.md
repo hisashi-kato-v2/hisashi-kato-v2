@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hisashi-kato-v2
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hisashi-kato-v2&layout=compact
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
