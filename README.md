@@ -3,7 +3,6 @@
 
 (以下同一アカウント)
 - https://github.com/phc-kato
-- https://github.com/SweetsEaves
 <!--
 **hisashi-kato-v2/hisashi-kato-v2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
