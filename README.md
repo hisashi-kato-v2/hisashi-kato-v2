@@ -1,10 +1,6 @@
 ### Hi there 
 新しくアカウント作りました👋
-<p align="left"> 
-  <a href="https://github.com/hisashi-kato-v2/hisashi-kato-v2/"　target="_blank" rel="noopener noreferrer">
-    <img src="https://komarev.com/ghpvc/?username=hisashi-kato-v2" alt="view-count" />
-  </a>
-</p>
+
 
  以下同一アカウント
  - https://github.com/phc-kato
@@ -28,3 +24,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<section>
+  <p align="left"> 
+    <a href="https://github.com/hisashi-kato-v2/hisashi-kato-v2/"　target="_blank" rel="noopener noreferrer">
+      <img src="https://komarev.com/ghpvc/?username=hisashi-kato-v2" alt="view-count" />
+    </a>
+  </p>
+</section>
