@@ -5,9 +5,9 @@
     <img src="https://komarev.com/ghpvc/?username=hisashi-kato-v2" alt="view-count" />
   </a>
 </p>
-> [!NOTE]
-> 以下同一アカウント
-> - https://github.com/phc-kato
+
+ 以下同一アカウント
+ - https://github.com/phc-kato
 <!--
 **hisashi-kato-v2/hisashi-kato-v2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
